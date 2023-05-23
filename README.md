@@ -1,5 +1,5 @@
 # Customer churn prediction
-image.png
+![image](https://github.com/Evah282/Phase-3-project/assets/125399280/a0cb0ad7-90dd-4759-87af-a622c74293a1)
 ### BUSINESS OVERVIEW
 SyriaTel is a telecommunications company operating in a highly competitive market.
 The company provides various services, including mobile, landline communications and internet to its customers.
